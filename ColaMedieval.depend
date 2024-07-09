@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1710956673 source:c:\users\ana laura chenoweth\music\colamedieval\colamedieval.cpp
+	<iostream>
+	"ColaMedieval.hpp"
+
+1710957581 c:\users\ana laura chenoweth\music\colamedieval\colamedieval.hpp
+
+1710957550 source:c:\users\ana laura chenoweth\music\colamedieval\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<string>
+	"ColaMedieval.hpp"
+
+1710957704 source:c:\users\ana laura chenoweth\3d objects\colamedieval\colamedieval.cpp
+	<iostream>
+	"ColaMedieval.hpp"
+
+1710957580 c:\users\ana laura chenoweth\3d objects\colamedieval\colamedieval.hpp
+
+1710958455 source:c:\users\ana laura chenoweth\3d objects\colamedieval\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<string>
+	"ColaMedieval.hpp"
+
+1720488438 source:c:\colamedieval2\colamedieval\colamedieval.cpp
+	<iostream>
+	"ColaMedieval.hpp"
+
+1720488337 c:\colamedieval2\colamedieval\colamedieval.hpp
+
+1720488927 source:c:\colamedieval2\colamedieval\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<string>
+	"ColaMedieval.hpp"
+
